@@ -1,0 +1,19 @@
+body {
+	background-image: url(../img/debut_dark_@2X.png);
+	background-size: 200px 200px;
+}
+
+.comingsoon {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.comingsoon h1 {
+  color: #fff;
+  font-size: 60px;
+}
+
+.comingsoon h2 {
+  color: #999;
+  font-size: 24px;
+}
